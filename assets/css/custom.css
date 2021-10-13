@@ -1,3 +1,42 @@
+
+.rlf_share .share__title,
+.rlf_share .rlf_share-right {
+  color: #bbb;
+  text-transform: lowercase;
+  font-size: 16px;
+}
+.rlf-container-title-box .rlf_share .share__list .share__item {
+  border: 1px solid #ccc;
+  margin: 0 0 0 10px; 
+}
+
+.rlf-container-title-box .rlf_share .rlf_share-left {
+  display: none;
+}
+.rlf-container-content .rlf_share .rlf_share-right {
+  display: none;
+}
+.rlf-container-title-box .rlf_share .rlf_share-right {
+  margin: 2px 0 0 10px;
+}
+
+.rlf-container-title-box .rlf_share i{
+    padding: 2px 6px 0;
+}
+.rlf_share .share__list .share__item a {
+    font-size: 24px;
+    color: #393e46;
+    margin: 0;
+}
+.rlf_share .share__list .share__item a:hover {
+  color: #bbb;
+}
+.rlf-container-title-box .share__list .rlf_share-ln,
+.rlf-container-title-box .share__list .rlf_share-pn,
+.rlf-container-title-box .share__list .rlf_share-wa {
+  display: none;
+}
+
 .rlf-promo .rlf-container-promo {
   max-width: 600px;
   background-color: #f6f141; 
