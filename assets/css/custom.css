@@ -32,8 +32,7 @@
   color: #bbb;
 }
 .rlf-container-title-box .share__list .rlf_share-ln,
-.rlf-container-title-box .share__list .rlf_share-pn,
-.rlf-container-title-box .share__list .rlf_share-wa {
+.rlf-container-title-box .share__list .rlf_share-pn {
   display: none;
 }
 
@@ -537,8 +536,7 @@ h4.rlf-tag-page {
 }
 
 input#switch-1:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-es .rlf-long .rlf-edgarmagana,
-input#switch-2:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-en .rlf-long .rlf-edgarmagana,
-.rlf-container-bigfoot .rlf-footer .rlf-long .rlf-edgarmagana {
+input#switch-2:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-en .rlf-long .rlf-edgarmagana {
     font-size: 120pt;
     font-weight: 900;
     line-height: 100pt;
@@ -555,6 +553,12 @@ input#switch-2:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-en .rlf-
   }
   input#switch-1:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-es .rlf-lang-switcher,
   input#switch-2:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-en .rlf-lang-switcher {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+  }
+  input#switch-2:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-es .rlf-lang-jumper,
+  input#switch-1:checked~.rlf-reverso-body .rlf-container-bigfoot #footer-en .rlf-lang-jumper {
     display: flex;
     justify-content: flex-end;
     margin: 0;
