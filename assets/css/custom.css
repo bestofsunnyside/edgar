@@ -343,10 +343,10 @@ a:hover {
   background-image: url(/edgar/assets/zmg/a/head-bg.png);
   height: unset;
   max-width: unset;
-  width: 100%;
+ /* width: 100%; */
 }
 .rlf-header-container>.row {
-  margin-right: 20px
+ /* margin-right: 20px */
 }
 
 .main-nav .nav__list .nav__item .nav__link {
