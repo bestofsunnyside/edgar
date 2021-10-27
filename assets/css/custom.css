@@ -57,7 +57,8 @@
 
 .rlf-promo .rlf-container-promo {
   max-width: 600px;
-  background-color: #f6f141; 
+/*  background-color: #f6f141; */
+  background-color: #ff2424;
   margin-top: 20px;
   margin-bottom: 20px
 }
@@ -76,6 +77,8 @@
 }
 .rlf-promo .rlf-promo-sub {
   margin: 0;
+  font-weight: 700;
+  color: #000;
 } 
 .rlf-promo .rlf-promo-act a {
   display: inline-block;
@@ -85,7 +88,8 @@
   text-decoration: none;
   font-weight: 600;
   color: #fff;
-  background-color: #f00;
+  background-color: #033;
+/*  background-color: #f00; */
   text-align: center;
   text-transform: uppercase;
   transition: all 0.2s;
