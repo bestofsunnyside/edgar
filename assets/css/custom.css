@@ -349,8 +349,11 @@ a:hover {
   max-width: unset;
  /* width: 100%; */
 }
-.rlf-header-container>.row {
- /* margin-right: 20px */
+.rlf-reverso-body .rlf-header-container {
+  width: 100%;
+}
+.rlf-reverso-body .rlf-header-container>.row {
+  margin-right: 20px;
 }
 
 .main-nav .nav__list .nav__item .nav__link {
