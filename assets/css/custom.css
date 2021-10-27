@@ -520,6 +520,7 @@ h4.rlf-subtitle {
 }
 .rlf-post-tags, .rlf-maintag, .rlf-subtag {
   display: flex;
+  flex-wrap: wrap;
   letter-spacing: 0.5px;
   font-weight: 700;
   text-transform: uppercase;
