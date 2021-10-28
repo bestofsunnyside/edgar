@@ -56,7 +56,7 @@
 }
 
 .rlf-promo .rlf-container-promo {
-  max-width: 600px;
+  max-width: 700px;
 /*  background-color: #f6f141; */
   background-color: #ff2424;
   margin-top: 20px;
@@ -101,6 +101,7 @@
 
 .rlf-promo .rlf-promo-act {
   text-align: center;
+  margin-top: 20px;
 } 
 .rlf-promo .rlf-container-promo .rlf-promo-zmg-col {
   padding: 0;
