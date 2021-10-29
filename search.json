@@ -1,22 +1,6 @@
 [
   
     {
-      "title"    : "Tu eres la victima",
-      "category" : "",
-      "tags"     : "scams and economy",
-      "url"      : "/edgar/es/estafa",
-      "lang"     : "AFDEspañol"
-    } ,
-  
-    {
-      "title"    : "Music Man Consultants",
-      "category" : "",
-      "tags"     : "scams and economy",
-      "url"      : "/edgar/en/music-man-consultants",
-      "lang"     : "slslEnglish"
-    } ,
-  
-    {
       "title"    : "Financiar y priorizar a nuestro policía",
       "category" : "",
       "tags"     : "crime",
@@ -33,18 +17,18 @@
     } ,
   
     {
-      "title"    : "Conflictos Generacionales",
+      "title"    : "Tu eres la victima",
       "category" : "",
-      "tags"     : "conflicts",
-      "url"      : "/edgar/es/edad",
+      "tags"     : "scams and economy",
+      "url"      : "/edgar/es/estafa",
       "lang"     : "AFDEspañol"
     } ,
   
     {
-      "title"    : "Bridging Generational Divisions",
+      "title"    : "Music Man Consultants",
       "category" : "",
-      "tags"     : "conflicts",
-      "url"      : "/edgar/en/bridging-generational-conflicts",
+      "tags"     : "scams and economy",
+      "url"      : "/edgar/en/music-man-consultants",
       "lang"     : "slslEnglish"
     } ,
   
@@ -61,6 +45,22 @@
       "category" : "",
       "tags"     : "economy",
       "url"      : "/edgar/en/blight-by-design",
+      "lang"     : "slslEnglish"
+    } ,
+  
+    {
+      "title"    : "Conflictos Generacionales",
+      "category" : "",
+      "tags"     : "conflicts",
+      "url"      : "/edgar/es/edad",
+      "lang"     : "AFDEspañol"
+    } ,
+  
+    {
+      "title"    : "Bridging Generational Divisions",
+      "category" : "",
+      "tags"     : "conflicts",
+      "url"      : "/edgar/en/bridging-generational-conflicts",
       "lang"     : "slslEnglish"
     } ,
   
